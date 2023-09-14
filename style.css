@@ -1,0 +1,61 @@
+body{
+    padding: 0px;
+    margin: 0px;
+    background: url(room.jpeg);
+    background-size: cover;
+}
+.left{
+    display: inline-block;
+    top: 20px;
+    left: 60px;
+    position: absolute;
+
+}
+.left img{
+    width: 120px;
+}
+.mid{
+    display: block;
+    text-align: center;
+    margin: 10px auto;
+}
+.mid ul{
+    display: inline-block;
+}
+.mid li{
+    
+    font-size: 50px;
+    display: inline-block;
+}
+.mid li a{
+    text-decoration: none;
+    color: rgb(172, 206, 21);
+    padding: 30px;
+}
+.mid li a:hover{
+    text-decoration: underline;
+    color: rgb(27, 183, 191);
+}
+.cont{
+    margin: 106px 120px;
+    text-align: center;
+    padding: 75px;
+    width: 50%;
+}
+.cont h1{
+    text-align:center;
+    font-size: 70px;
+    color: rgb(11, 25, 221);
+}
+.cont p{
+    text-align: center;
+    font-size: 50px;
+    font-style: inherit;
+    color: rgb(15, 19, 215);
+}
+
+
+
+
+
+
